@@ -1,0 +1,43 @@
+head{
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    width: 300px;
+    
+}
+svg{
+    align-self: 
+    auto;
+}
+::content{
+    animation: none
+    ;
+}
+#content{
+    margin: auto;
+}
+text{
+    height: 1px;
+    min-height: auto;
+
+}
+object{
+align-items: end;
+}
+object{
+appearance: calc(auto);
+color: blue;
+}
+object{color: rgb(27, 41, 53);
+
+}
+caption{
+    align-items:  center;
+}
+header{
+    align-items: calc(120);
+    text-align: left;
+    text-align: center;
+    text-align: right; 
+}
+span{
+    color: purple;
+}
